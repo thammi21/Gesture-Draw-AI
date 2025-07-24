@@ -4,9 +4,13 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 
-<img src="screenshots/drawing1.jpg" width="300"/> <img src="screenshots/drawing2.jpg" width="300"/>
+### Drawing Example
+![Drawing 1](screenshots/drawing1.jpg)
+
+### Color Change and More
+![Drawing 2](screenshots/drawing2.jpg)
 
 ---
 
